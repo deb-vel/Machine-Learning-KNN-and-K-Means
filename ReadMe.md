@@ -9,6 +9,7 @@ Each question has its own .cmd file to run it called:
 * matplotlib 
 
 ## PDF files
-* Documentation.pdf
+* Documentation.pdf is the report.
+* ML Assignment 2018-2019.pdf contains assignment specifications
 
 	
